@@ -12,6 +12,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap-sass'
 gem 'rails-i18n', '~> 4.0.0'
 gem 'geocoder'
+gem 'globalize'
 
 group :development, :test do
   gem 'byebug'
