@@ -12,6 +12,10 @@ en:
       submit: "Submit"
   menu:
     new_article: "Add an article"
+    languages:
+      lang: "Language"
+      ru: "Russian"
+      en: "English"
   articles:
     index:
       count:

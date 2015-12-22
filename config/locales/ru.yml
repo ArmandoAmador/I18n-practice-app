@@ -1,4 +1,4 @@
-en:
+ru:
   activerecord:
     attributes:
       articles:
@@ -12,6 +12,10 @@ en:
       submit: "Отправить"
   menu:
     new_article: "Добавить статью"
+    languages:
+      lang: "Язык"
+      ru: "Русский"
+      en: "Английский"
   articles:
     index:
       count:
